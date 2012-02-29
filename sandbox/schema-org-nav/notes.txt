@@ -1,0 +1,15 @@
+
+Related links
+
+* https://dvcs.w3.org/hg/webschema/file/default/schema.org/drafts/alpha
+* http://www.w3.org/wiki/WebSchemas/SchemaDotOrgProposals
+
+
+
+Viz
+
+* foaf.tv/tellyclub/schema.org/protovis-3.2/ex/den3.html
+* http://foaf.tv/tellyclub/schema.org/protovis-3.2/ex/den3.html
+* http://foaf.tv/tellyclub/schema.org/protovis-3.2/ex/indent-full.html
+* http://mbostock.github.com/d3/
+
