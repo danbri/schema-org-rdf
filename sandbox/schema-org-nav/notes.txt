@@ -3,6 +3,7 @@ Related links
 
 * https://dvcs.w3.org/hg/webschema/file/default/schema.org/drafts/alpha
 * http://www.w3.org/wiki/WebSchemas/SchemaDotOrgProposals
+* http://viejs.org/
 
 
 
